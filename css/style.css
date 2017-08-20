@@ -1,0 +1,19 @@
+* {
+	font-family: calibri;
+}
+a {
+	text-decoration: none;
+}
+#wrapper {
+	width: 960px;
+	margin: 0px auto;
+}
+textarea {
+	resize: none;
+}
+.full_w {
+	width: 96.5%;
+}
+.half_w {
+	width: 48%;
+}

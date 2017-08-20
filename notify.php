@@ -26,10 +26,10 @@
     require_once('lib/Pusher.php');
   
   // Set Variables
-    $cluster    = "ap2";
-    $appId      = "386493";
-    $appKey     = "308ec3a55dfd284497af";
-    $appSecret  = "337283b360e2b89ed317";
+    $cluster    = "";     // Enter Your App Cluster
+    $appId      = "";     // Enter App ID Here
+    $appKey     = "";     // Enter Your Key Here
+    $appSecret  = "";     // Enter Your Secret Key Here
   
   // Set Cluster
     $options = array(

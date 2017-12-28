@@ -21,7 +21,7 @@ Notification Pusher
 
 ### Live Demo Of Assignment
 ----------
-> [Pusher Demo](http://www.shdesk.com/rtCampTA)
+> Currently On Offline Mode.
 
 
 ### About This Code

@@ -36,6 +36,6 @@ Notification Pusher
 
 ### About Me
 ----------
-> + Name 		: Krunalsinh M. Jadeja
+> + Name 		: [Krunalsinh M. Jadeja](https://www.linkedin.com/in/kmjadeja)
 > - Email		: kmjadeja@hotmail.com
 > * Visit 	 	: [SHDesk](http://www.shdesk.com)
